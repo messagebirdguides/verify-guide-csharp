@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>MessageBird Verify Example</title>
+</head>
+<body>
+    <h1>MessageBird Verify Example</h1>
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>
